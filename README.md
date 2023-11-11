@@ -1,2 +1,2 @@
 # projetomatch
-Conversor de moedas estrangeiras
+Conversor de moedas estrangeiras.
